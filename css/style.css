@@ -41,3 +41,8 @@ button {
         margin: 10px 0;
     }
 }
+
+img {
+    margin-top: 20px;
+    border-radius: 10px;
+}
