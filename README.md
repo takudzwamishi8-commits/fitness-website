@@ -39,3 +39,15 @@ Elite Fitness Gym is a fitness centre focused on helping individuals achieve the
 * Added navigation
 * Applied CSS styling
 * Added responsive design
+## Part 3 Changelog
+
+- Added JavaScript form validation
+- Added search functionality
+- Added responsive forms
+- Improved SEO
+- Added robots.txt
+- Added sitemap.xml
+- Improved CSS animations
+- Added hover effects
+- Improved accessibility
+- Updated references
